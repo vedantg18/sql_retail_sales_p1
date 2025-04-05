@@ -242,5 +242,3 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 ## Author - Vedant Gurav
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
-
-Thank you for your support, and I look forward to connecting with you!
